@@ -1,0 +1,13 @@
+:root {
+--smoky-black: #0f0a0aff;
+--isabelline: #f5efedff;
+--blue-munsell: #2292a4ff;
+--citrine: #bdbf09ff;
+--cocoa-brown: #d96c06ff;
+}
+
+* {
+    background-color: var(--smoky-black);
+    color: var(--isabelline);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
